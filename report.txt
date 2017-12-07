@@ -1,0 +1,19 @@
+AUXO AUTOMATION TEST,  CONCORD CAPTURE   <Version 2.10.x>,  Nov 17, 2017 12:38:29 PM
+TOTAL FILES PROCESSED  =200
+------------------------------------------------------------
+Name comparisons passed  =1
+Name comparisons failed  =0
+NAME COMPARISON PASS % =100.0
+------------------------------------------------------------
+DOB comparisons passed  =1
+DOB comparisons failed  =0
+DOB COMPARISON PASS % =100.0
+------------------------------------------------------------
+SSN comparisons passed  =1
+SSN comparisons failed  =0
+SSN COMPARISON PASS % =100.0
+------------------------------------------------------------
+Date of Service  comparisons passed  =1
+Date of Service comparisons failed  =0
+DOS COMPARISON PASS % =100.0
+------------------------------------------------------------
